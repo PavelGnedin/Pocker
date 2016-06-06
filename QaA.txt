@@ -1,0 +1,32 @@
+POKER VOCABULARY: To place chips into the pot IS... ?
+Bet
+POKER VOCABULARY: A straight that is A-2-3-4-5 IS... ?
+Bicycle
+POKER VOCABULARY: A designated amount that is placed by the player sitting in the second position, clockwise from the dealer, before any cards are dealt IS... ?
+Big Blind
+POKER VOCABULARY: To make other players believe that one has a better hand than he/she might otherwise have by betting or raising when they do not have the best hand IS... ?
+Bluff
+POKER VOCABULARY: When a player chooses to match the previous bet IS... ?
+Call
+POKER VOCABULARY: When it's a player's turn to act and there has been no action in front of them and he opts not to bet, he "checks." IS... ?
+Check
+POKER VOCABULARY: The minimum amount of money required by a player to sit down in a particular poker game IS... ?
+Buy-In
+POKER VOCABULARY: Two Kings IS... ?
+Cowboys
+POKER VOCABULARY: Position on a round of betting where the player must act before most of the other players at the table. (It's considered the two positions located to the left of the Blinds.) IS... ?
+Early Position
+POKER VOCABULARY: To throw your hand away when it's your turn to act IS... ?
+Fold
+POKER VOCABULARY: A player's best five cards IS... ?
+Hand
+POKER VOCABULARY: The highest unpaired side card in a players' hand IS... ?
+Kicker
+POKER VOCABULARY: A very big hand. In a tournament, a player who begins to accumulate chips after having a small stack is considered to be a monster IS... ?
+Monster
+POKER VOCABULARY: The best possible hand at any point of the game. A hand that cannot be beat IS... ?
+Nuts
+POKER VOCABULARY: The probability of making a hand vs. the probability of not making a hand IS... ?
+Odds
+POKER VOCABULARY: The money or chips in the center of a table that players try to win IS... ?
+Pot

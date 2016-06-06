@@ -1,0 +1,49 @@
+POKER VOCABULARY: To place chips into the pot IS... ?
+|1. Bet |2. Set |3. Blind |4.Fall|
+1
+POKER VOCABULARY: A straight that is A-2-3-4-5 IS... ?
+|1. Bicycle |2. Set |3. Blind |4.Fall|
+1
+POKER VOCABULARY: A designated amount that is placed by the player sitting in the second position, clockwise from the dealer, before any cards are dealt IS... ?
+|1. Big Blind |2. Set |3. Blind |4.Fall|
+1
+POKER VOCABULARY: To make other players believe that one has a better hand than he/she might otherwise have by betting or raising when they do not have the best hand IS... ?
+|1. Bet |2. Bluff |3. Blind |4.Fall|
+2
+POKER VOCABULARY: When a player chooses to match the previous bet IS... ?
+|1. Bet |2. Bluff |3.  Call |4.Fall|
+3
+POKER VOCABULARY: When it's a player's turn to act and there has been no action in front of them and he opts not to bet, he "checks." IS... ?
+|1. Bet |2. Bluff |3. Blind |4. Check|
+4
+POKER VOCABULARY: The minimum amount of money required by a player to sit down in a particular poker game IS... ?
+|1. Set |2. Pocker |3. Buy-In |4. Check|
+3
+POKER VOCABULARY: Two Kings IS... ?
+|1. Big Blind |2. Cowboys |3. Call |4.Fall|
+2
+POKER VOCABULARY: Position on a round of betting where the player must act before most of the other players at the table. (It's considered the two positions located to the left of the Blinds.) IS... ?
+|1. Big Blind |2. Cowboys |3. Call |4. Early Position|
+4
+POKER VOCABULARY: To throw your hand away when it's your turn to act IS... ?
+|1. Fold |2. Bluff |3. Blind |4. Monster|
+1
+POKER VOCABULARY: A player's best five cards IS... ?
+|2. Hand |2. Bluff |3. Blind |4. Monster|
+2
+POKER VOCABULARY: The highest unpaired side card in a players' hand IS... ?
+|3. Kicker |2. Bluff |3. Blind |4. Monster|
+3
+POKER VOCABULARY: A very big hand. In a tournament, a player who begins to accumulate chips after having a small stack is considered to be a monster IS... ?
+|1. Bet |2. Bluff |3. Blind |4. Early Position|
+4
+POKER VOCABULARY: The best possible hand at any point of the game. A hand that cannot be beat IS... ?
+|1. Nuts |2. Bluff |3. Blind |4. Early Position|
+1
+POKER VOCABULARY: The probability of making a hand vs. the probability of not making a hand IS... ?
+|1. Blind |2. Odds |3. Call |4.Fall|
+2
+POKER VOCABULARY: The money or chips in the center of a table that players try to win IS... ?
+|1. Blind |2. Odds |3. Pot |4. Check|
+3
+
