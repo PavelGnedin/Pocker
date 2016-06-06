@@ -57,10 +57,6 @@ class Game:
         suitOfMyPlayerCard1=self.myPlayer.card1.card_suit
         ratingOFMyPlayerCard2=self.myPlayer.card2.card_rating
         suitOfMyPlayerCard2=self.myPlayer.card2.card_suit
-        # print (ratingOFMyPlayerCard1)
-        # print (suitOfMyPlayerCard1)
-        # print (ratingOFMyPlayerCard2)
-        # print (suitOfMyPlayerCard2)
         self.koloda[suitOfMyPlayerCard1-1][ratingOFMyPlayerCard1-2]=0
         self.koloda[suitOfMyPlayerCard2-1][ratingOFMyPlayerCard2-2]=0
 

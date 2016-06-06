@@ -11,7 +11,7 @@ class Card:
      self.card_rating= card_rating
  def __init__(self):
     """
- Конструктор по умолчанию
+ Конструктор по умолчанию OI
      :rtype: object
     """
     random_suit=random.randint(1,4)#1-буби 2-черви 3-пики 4-крести
